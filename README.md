@@ -4,8 +4,8 @@
 
 PocketPlan is a colourful student expense tracker. You log what you spend, see where your money goes in charts, and stay on budget with your own monthly limit and category budgets. It works on desktop and on phones.
 
-**Live website:** [https://nallysa375-ship-it.github.io/YOUR-REPO-NAME/](https://nallysa375-ship-it.github.io/nrallysa/)
-**GitHub repository:** [https://github.com/nallysa375-ship-it/YOUR-REPO-NAME](https://github.com/nallysa375-ship-it/nrallysa)
+**Live website:** (https://nallysa375-ship-it.github.io/nrallysa/)
+**GitHub repository:** (https://github.com/nallysa375-ship-it/nrallysa)
 
 ## How to test the login
 
